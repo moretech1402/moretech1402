@@ -1,13 +1,13 @@
 <h1 align="center">Hola 👋, soy Carlos</h1>
-<h3 align="center">Creador de soluciones tecnológicas con curiosidad sin límites</h3>
+<h3 align="center">Creador de soluciones tecnológicas con una curiosidad sin límites</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=morenort1402&label=Profile%20views&color=0e75b6&style=flat" alt="morenort1402" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=morenort1402" alt="morenort1402" /></a> </p>
 
-- 🌱 Actualmente estoy aprendiendo **Laravel, integración continua**
+- 🌱 Actualmente estoy aprendiendo **Symfony y API/Platform**
 
-- 💬 Puedes preguntarme sobre **Clean Code, arquitectura, buenas prácticas**
+- 💬 Me apasiona **Clean Code, arquitectura y buenas prácticas**
 
 - 📫 Contacto: **morecore.dev@gmail.com**
 
