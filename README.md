@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=moretech1402" alt="moretech1402" /></a> </p>
 
-- 🌱 Actualmente estoy aprendiendo **Symfony y API/Platform**
+- 🌱 Actualmente estoy aprendiendo **Docker y Machine Learning en Unity**
 
-- 💬 Me apasiona **Clean Code, arquitectura y buenas prácticas**
+- 💬 Me apasiona **Clean Code, arquitectura y algoritmia**
 
 - 📫 Contacto: **morecore.dev@gmail.com**
 
